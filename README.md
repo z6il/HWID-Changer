@@ -1,5 +1,5 @@
 # HWID-Changer
-Randomize your ids to bypass games ban ..etc
+Randomize your ids to bypass games ban like Cod call of duty ..etc
 this can change the following :
 
 **1 - Product ID Spoofer
